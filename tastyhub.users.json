@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "69e8727de8e8d77dd1fcc7d5"
+  },
+  "name": "Noor",
+  "email": "test@gmail.com",
+  "password": "$2b$10$LO/DMfCc4otGppoJ/d7nL.kshPnwSCESN0PSXIlSj9INPjEYpLYdW",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e8748ae8e8d77dd1fcc7d6"
+  },
+  "name": "noor ",
+  "email": "sabahn878@gmail.com",
+  "password": "$2b$10$A/wF/J5AmtWaKfGprPBUkOGBr/GG2V5EujwH4cTCqxVZnXqZU1OEm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f9a482475bd4b296b4c0bc"
+  },
+  "name": "noor ul saba",
+  "email": "noorasa676@gmail.com",
+  "password": "$2b$10$lJM8X.lKKDpBARbbwCWIqO9w6Vdufp3hHit4eSD9ga3pdVpJl92/.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fc4727d18055f5dfadf178"
+  },
+  "name": "Amaan Fatima",
+  "email": "ayaatfatima061@gmail.com",
+  "password": "$2b$10$oAuYfgU34MtxtEnvEq019uzcArCSkwNRCYpxWm2VafwBlsJIAcI.a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a095de88edda0d1b4e4115a"
+  },
+  "name": "saira",
+  "email": "saarahdevid@gmail.com",
+  "password": "$2b$10$NP98oSayYHSK6..QEkjUC.DJsE5i90y1xgsoxFGKzhawh0he26Aw2",
+  "__v": 0
+}]

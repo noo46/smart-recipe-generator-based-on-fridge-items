@@ -1,0 +1,2009 @@
+[{
+  "_id": {
+    "$oid": "69f9bede7be6bcfe37cea983"
+  },
+  "userId": "69f9a482475bd4b296b4c0bc",
+  "title": "Zucchini Rice",
+  "image": "https://img.spoonacular.com/recipes/665781-556x370.jpg",
+  "ingredients": [
+    {
+      "id": 10220444,
+      "aisle": "Pasta and Rice",
+      "image": "rice-white-long-grain-or-basmatii-cooked.jpg",
+      "consistency": "SOLID",
+      "name": "long grained rice",
+      "nameClean": "long grained rice",
+      "original": "1 cup long grained rice",
+      "originalName": "long grained rice",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 185,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "3 cloves garlic, minced",
+      "originalName": "garlic, minced",
+      "amount": 3,
+      "unit": "cloves",
+      "meta": [
+        "minced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        },
+        "metric": {
+          "amount": 3,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        }
+      }
+    },
+    {
+      "id": 10011282,
+      "aisle": "Produce",
+      "image": "red-onion.png",
+      "consistency": "SOLID",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "¾ red onion, chopped",
+      "originalName": "red onion, chopped",
+      "amount": 0.75,
+      "unit": "",
+      "meta": [
+        "red",
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.75,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.75,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "1 TBSP Olive Oil",
+      "originalName": "Olive Oil",
+      "amount": 1,
+      "unit": "TBSP",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 11477,
+      "aisle": "Produce",
+      "image": "zucchini.jpg",
+      "consistency": "SOLID",
+      "name": "zucchini",
+      "nameClean": "zucchini",
+      "original": "1 zucchini, chopped into bite sized pieces",
+      "originalName": "zucchini, chopped into bite sized pieces",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 6970,
+      "aisle": "Canned and Jarred",
+      "image": "chicken-broth.png",
+      "consistency": "LIQUID",
+      "name": "chicken broth",
+      "nameClean": "chicken broth",
+      "original": "2½ cup low sodium chicken broth",
+      "originalName": "low sodium chicken broth",
+      "amount": 2.5,
+      "unit": "cup",
+      "meta": [
+        "low sodium"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 590,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "SOLID",
+      "name": "tsp paprika",
+      "nameClean": "tsp paprika",
+      "original": "1 TSP Paprika",
+      "originalName": "TSP Paprika",
+      "amount": 1,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 2009,
+      "aisle": "Spices and Seasonings",
+      "image": "chili-powder.jpg",
+      "consistency": "SOLID",
+      "name": "tsp chili powder",
+      "nameClean": "tsp chili powder",
+      "original": "1 TSP Chili Powder",
+      "originalName": "TSP Chili Powder",
+      "amount": 1,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    }
+  ],
+  "instructions": "Place saucepan over medium high heat. Add olive oil, red onion and garlic. Saute until onion softens, about 5 minutes. Add zucchini and spices. Saute until zucchini begins to cook, 5 minutes.\nAdd chicken broth, stir and cover. Reduce to medium low and let simmer for 20 minutes until rice is tender.\nFluff rice with a fork and serve.",
+  "category": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb35e5395066aa7adc53e6"
+  },
+  "userId": "123",
+  "title": "Test Recipe",
+  "image": "test.jpg",
+  "ingredients": [
+    "rice"
+  ],
+  "instructions": "cook",
+  "category": "Desi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3629395066aa7adc53e7"
+  },
+  "userId": "69f9a482475bd4b296b4c0bc",
+  "title": "Turkey and Rice Stuffed Acorn Squash",
+  "image": "https://img.spoonacular.com/recipes/663985-556x370.jpg",
+  "ingredients": [
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "3 tablespoons olive oil",
+      "originalName": "olive oil",
+      "amount": 3,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 3,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 11482,
+      "aisle": "Produce",
+      "image": "acorn-squash.jpg",
+      "consistency": "SOLID",
+      "name": "acorn squash",
+      "nameClean": "acorn squash",
+      "original": "3 smalls acorn squash",
+      "originalName": "s acorn squash",
+      "amount": 3,
+      "unit": "small",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3,
+          "unitShort": "small",
+          "unitLong": "smalls"
+        },
+        "metric": {
+          "amount": 3,
+          "unitShort": "small",
+          "unitLong": "smalls"
+        }
+      }
+    },
+    {
+      "id": 10020444,
+      "aisle": "Pasta and Rice",
+      "image": "rice-white-long-grain-or-basmatii-cooked.jpg",
+      "consistency": "SOLID",
+      "name": "brown basmati rice",
+      "nameClean": "brown basmati rice",
+      "original": "1 cup brown basmati rice",
+      "originalName": "brown basmati rice",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 185,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "SOLID",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 small onion",
+      "originalName": "onion",
+      "amount": 1,
+      "unit": "small",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "small",
+          "unitLong": "small"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "small",
+          "unitLong": "small"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "2 cloves garlic",
+      "originalName": "garlic",
+      "amount": 2,
+      "unit": "cloves",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        }
+      }
+    },
+    {
+      "id": 5662,
+      "aisle": "Meat",
+      "image": "meat-ground.jpg",
+      "consistency": "SOLID",
+      "name": "ground turkey",
+      "nameClean": "ground turkey",
+      "original": "1 1/4 pounds (or 1 package) lean ground turkey",
+      "originalName": "(or 1 package) lean ground turkey",
+      "amount": 1.25,
+      "unit": "pounds",
+      "meta": [
+        "lean",
+        "(or 1 package)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.25,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 566.99,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11266,
+      "aisle": "Produce",
+      "image": "mushrooms.png",
+      "consistency": "SOLID",
+      "name": "baby bella mushrooms",
+      "nameClean": "baby bella mushrooms",
+      "original": "1 package baby bella mushrooms",
+      "originalName": "baby bella mushrooms",
+      "amount": 1,
+      "unit": "package",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "pkg",
+          "unitLong": "package"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "pkg",
+          "unitLong": "package"
+        }
+      }
+    },
+    {
+      "id": 10011457,
+      "aisle": "Produce",
+      "image": "spinach.jpg",
+      "consistency": "SOLID",
+      "name": "spinach",
+      "nameClean": "spinach",
+      "original": "1 bag spinach",
+      "originalName": "spinach",
+      "amount": 1,
+      "unit": "bag",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "bag",
+          "unitLong": "bag"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "bag",
+          "unitLong": "bag"
+        }
+      }
+    },
+    {
+      "id": 98990,
+      "aisle": "Spices and Seasonings",
+      "image": "vegeta.png",
+      "consistency": "SOLID",
+      "name": "vegeta seasoning",
+      "nameClean": "vegeta seasoning",
+      "original": "2 tablespoons vegeta seasoning",
+      "originalName": "vegeta seasoning",
+      "amount": 2,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "SOLID",
+      "name": "bell pepper flakes",
+      "nameClean": "bell pepper flakes",
+      "original": "1/2 teaspoon bell pepper flakes",
+      "originalName": "bell pepper flakes",
+      "amount": 0.5,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "SOLID",
+      "name": "salt and pepper",
+      "nameClean": "salt and pepper",
+      "original": "Salt and pepper",
+      "originalName": "Salt and pepper",
+      "amount": 6,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 99025,
+      "aisle": "Pasta and Rice",
+      "image": "breadcrumbs.jpg",
+      "consistency": "SOLID",
+      "name": "bread crumbs",
+      "nameClean": "bread crumbs",
+      "original": "1/2 cup whole wheat bread crumbs",
+      "originalName": "whole wheat bread crumbs",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "whole wheat"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 54,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    }
+  ],
+  "instructions": "Prepare rice according to package instructions. (I either cook the rice in chicken stock, or this time I used water and added 1 tablespoon vegeta seasoning to the water to add flavor to the rice as it cooks.)\nMeanwhile preheat oven to 375 degrees. Cut squash in half and drizzle with olive oil, salt and pepper. Roast skin side down for 30 minutes.\nHeat 1 tablespoon olive oil in large skilled. Add diced onions. Cook until translucent. Add garlic and cook for 1 minute longer. Add turkey, 1 tablespoon vegeta, red pepper, salt and pepper. Cook until turkey is browned and almost cooked through. Rough chop the mushrooms and add to the pan. Cook until mushrooms are softened. Add rice and spinach and stir until spinach is just wilted.\nStuff the squash with the meat and rice mixture and top with bread crumbs. (Either toss bread crumbs with 2 teaspoons olive oil, or I just spray them with spray olive oil to make sure that they brown in the oven.\nBake stuffed squash in oven until bread crumbs are browned.",
+  "category": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb398e4b14f9eee375d007"
+  },
+  "userId": "69f9a482475bd4b296b4c0bc",
+  "title": "Cheesy Beef Burrito",
+  "image": "https://img.spoonacular.com/recipes/1096057-556x370.jpg",
+  "ingredients": [
+    {
+      "id": 4042,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "peanut-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "peanut oil",
+      "nameClean": "peanut oil",
+      "original": "½ cup peanut oil",
+      "originalName": "peanut oil",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 108,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 10023618,
+      "aisle": "Meat",
+      "image": "beef-cubes-raw.png",
+      "consistency": "SOLID",
+      "name": "stew meat",
+      "nameClean": "stew meat",
+      "original": "2 pounds stew meat, cut into ½” cubes",
+      "originalName": "stew meat, cut into ½” cubes",
+      "amount": 2,
+      "unit": "pounds",
+      "meta": [
+        "cut into ½” cubes"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 907.185,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10011282,
+      "aisle": "Produce",
+      "image": "red-onion.png",
+      "consistency": "SOLID",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 red onion, finely chopped",
+      "originalName": "red onion, finely chopped",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "red",
+        "finely chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "4 cloves garlic, crushed",
+      "originalName": "garlic, crushed",
+      "amount": 4,
+      "unit": "cloves",
+      "meta": [
+        "crushed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        },
+        "metric": {
+          "amount": 4,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        }
+      }
+    },
+    {
+      "id": 6599,
+      "aisle": "Ethnic Foods",
+      "image": "salsa-verde.png",
+      "consistency": "SOLID",
+      "name": "enchilada sauce",
+      "nameClean": "enchilada sauce",
+      "original": "1 (10oz) can red enchilada sauce",
+      "originalName": "red enchilada sauce",
+      "amount": 10,
+      "unit": "oz",
+      "meta": [
+        "red",
+        "canned"
+      ],
+      "measures": {
+        "us": {
+          "amount": 10,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 283.495,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10011693,
+      "aisle": "Canned and Jarred",
+      "image": "tomatoes-canned.png",
+      "consistency": "SOLID",
+      "name": "tomato juice",
+      "nameClean": "tomato juice",
+      "original": "1 can (5.5oz) tomato juice",
+      "originalName": "can tomato juice",
+      "amount": 5.5,
+      "unit": "oz",
+      "meta": [
+        "canned"
+      ],
+      "measures": {
+        "us": {
+          "amount": 5.5,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 155.922,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10011980,
+      "aisle": "Canned and Jarred",
+      "image": "pickled-jalapenos.png",
+      "consistency": "SOLID",
+      "name": "chiles",
+      "nameClean": "chiles",
+      "original": "1 (4.5 oz) can chopped green chiles",
+      "originalName": "chopped green chiles",
+      "amount": 4.5,
+      "unit": "oz",
+      "meta": [
+        "green",
+        "chopped",
+        "canned"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4.5,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 127.573,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 27028,
+      "aisle": "Pasta and Rice",
+      "image": "salsa-verde.png",
+      "consistency": "SOLID",
+      "name": "salsa verde",
+      "nameClean": "salsa verde",
+      "original": "½ cup green salsa verde",
+      "originalName": "green salsa verde",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "green"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 113,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "SOLID",
+      "name": "salt",
+      "nameClean": "salt",
+      "original": "½ teaspoon salt",
+      "originalName": "salt",
+      "amount": 0.5,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 2009,
+      "aisle": "Spices and Seasonings",
+      "image": "chili-powder.jpg",
+      "consistency": "SOLID",
+      "name": "chili powder",
+      "nameClean": "chili powder",
+      "original": "1 teaspoon chili powder",
+      "originalName": "chili powder",
+      "amount": 1,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 10218364,
+      "aisle": "Pasta and Rice",
+      "image": "flour-tortilla.jpg",
+      "consistency": "SOLID",
+      "name": "flour tortillas",
+      "nameClean": "flour tortillas",
+      "original": "4 large flour tortillas",
+      "originalName": "flour tortillas",
+      "amount": 4,
+      "unit": "large",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "large",
+          "unitLong": "larges"
+        },
+        "metric": {
+          "amount": 4,
+          "unitShort": "large",
+          "unitLong": "larges"
+        }
+      }
+    },
+    {
+      "id": 1031009,
+      "aisle": "Cheese",
+      "image": "cheddar-cheese.png",
+      "consistency": "SOLID",
+      "name": "sharp cheddar cheese",
+      "nameClean": "sharp cheddar cheese",
+      "original": "2/3 cup sharp cheddar cheese, shredded",
+      "originalName": "sharp cheddar cheese, shredded",
+      "amount": 0.6666667,
+      "unit": "cup",
+      "meta": [
+        "shredded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.6666667,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 75.333,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "SOLID",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 onion, finely diced",
+      "originalName": "onion, finely diced",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "diced",
+        "finely"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 10220445,
+      "aisle": "Pasta and Rice",
+      "image": "uncooked-white-rice.png",
+      "consistency": "SOLID",
+      "name": "rice",
+      "nameClean": "rice",
+      "original": "1 cup cooked rice",
+      "originalName": "cooked rice",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [
+        "cooked"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 158,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 16015,
+      "aisle": "Pasta and Rice",
+      "image": "black-beans.jpg",
+      "consistency": "SOLID",
+      "name": "refried black beans",
+      "nameClean": "refried black beans",
+      "original": "1 can refried black beans",
+      "originalName": "refried black beans",
+      "amount": 1,
+      "unit": "can",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "can",
+          "unitLong": "can"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "can",
+          "unitLong": "can"
+        }
+      }
+    },
+    {
+      "id": 11529,
+      "aisle": "Produce",
+      "image": "tomato.png",
+      "consistency": "SOLID",
+      "name": "tomato",
+      "nameClean": "tomato",
+      "original": "1 tomato, chopped",
+      "originalName": "tomato, chopped",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 10111251,
+      "aisle": "Produce",
+      "image": "img.spoonacular.",
+      "consistency": "SOLID",
+      "name": "romaine lettuce",
+      "nameClean": "romaine lettuce",
+      "original": "1 cup loosely packed romaine lettuce, shredded",
+      "originalName": "loosely packed romaine lettuce, shredded",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [
+        "shredded",
+        "loosely packed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 47,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11291,
+      "aisle": "Produce",
+      "image": "spring-onions.jpg",
+      "consistency": "SOLID",
+      "name": "green onions",
+      "nameClean": "green onions",
+      "original": "3 green onions, diced",
+      "originalName": "green onions, diced",
+      "amount": 3,
+      "unit": "",
+      "meta": [
+        "diced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1056,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "sour-cream.jpg",
+      "consistency": "SOLID",
+      "name": "cream",
+      "nameClean": "cream",
+      "original": "½ cup sour cream",
+      "originalName": "sour cream",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "sour"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 115,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    }
+  ],
+  "instructions": "<ol><li>In a skillet over medium high heat, add peanut oil and let warm up. </li><li> Brown cubed meat in 3 batches. </li><li> Add in chopped red onion, crushed garlic, enchilada sauce, tomato juice, chopped green chiles, green salsa verde, salt and chili powder.  Stir all together and lower heat to low. </li><li> Cover and simmer for 4 hours.  Stir occasionally.</li><li>Warm tortillas in the microwave for 30 seconds and place on a plate. </li><li> Spoon meat mixture down centers of tortillas; top with remaining ingredients.</li><li>Fold in opposite sides of each tortilla, then roll up burrito-style.</li></ol>",
+  "category": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fc2df6a7369a3797878ef1"
+  },
+  "userId": "69f9a482475bd4b296b4c0bc",
+  "title": "Vietnamese Pancakes with Vegetables, Herbs and a Fragrant Dipping Sauce (Bánh Xèo)",
+  "image": "https://img.spoonacular.com/recipes/716217-556x370.jpg",
+  "ingredients": [
+    {
+      "id": 20090,
+      "aisle": "Health Foods",
+      "image": "brown-flour.jpg",
+      "consistency": "SOLID",
+      "name": "brown rice flour",
+      "nameClean": "brown rice flour",
+      "original": "1 1/3 cups brown rice flour",
+      "originalName": "brown rice flour",
+      "amount": 1.3333334,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.3333334,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 210.667,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 19334,
+      "aisle": "Baking",
+      "image": "light-brown-sugar.jpg",
+      "consistency": "SOLID",
+      "name": "brown sugar",
+      "nameClean": "brown sugar",
+      "original": "1/2 tablespoon brown sugar",
+      "originalName": "brown sugar",
+      "amount": 0.5,
+      "unit": "tablespoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 11124,
+      "aisle": "Produce",
+      "image": "sliced-carrot.png",
+      "consistency": "SOLID",
+      "name": "carrot",
+      "nameClean": "carrot",
+      "original": "1 large carrot, scrubbed and grated",
+      "originalName": "carrot, scrubbed and grated",
+      "amount": 1,
+      "unit": "large",
+      "meta": [
+        "grated",
+        "scrubbed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "large",
+          "unitLong": "large"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "large",
+          "unitLong": "large"
+        }
+      }
+    },
+    {
+      "id": 2031,
+      "aisle": "Spices and Seasonings",
+      "image": "chili-powder.jpg",
+      "consistency": "SOLID",
+      "name": "cayenne",
+      "nameClean": "cayenne",
+      "original": "pinch of cayenne",
+      "originalName": "pinch of cayenne",
+      "amount": 1,
+      "unit": "pinch",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "pinch",
+          "unitLong": "pinch"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "pinch",
+          "unitLong": "pinch"
+        }
+      }
+    },
+    {
+      "id": 12118,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "coconut-milk.png",
+      "consistency": "LIQUID",
+      "name": "coconut milk",
+      "nameClean": "coconut milk",
+      "original": "1 3/4 cups of coconut milk + water if needed",
+      "originalName": "coconut milk + water if needed",
+      "amount": 1.75,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.75,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 395.5,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11430,
+      "aisle": "Produce",
+      "image": "daikon.jpg",
+      "consistency": "SOLID",
+      "name": "daikon radish",
+      "nameClean": "daikon radish",
+      "original": "1 medium daikon radish, scrubbed and grated",
+      "originalName": "daikon radish, scrubbed and grated",
+      "amount": 1,
+      "unit": "medium",
+      "meta": [
+        "grated",
+        "scrubbed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "medium",
+          "unitLong": "medium"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "medium",
+          "unitLong": "medium"
+        }
+      }
+    },
+    {
+      "id": 1123,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "egg.png",
+      "consistency": "SOLID",
+      "name": "egg",
+      "nameClean": "egg",
+      "original": "1 egg, beaten",
+      "originalName": "egg, beaten",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "beaten"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11950,
+      "aisle": "Produce",
+      "image": "enoki-mushrooms.jpg",
+      "consistency": "SOLID",
+      "name": "enoki mushrooms",
+      "nameClean": "enoki mushrooms",
+      "original": "1 cup enoki mushrooms, trimmed",
+      "originalName": "enoki mushrooms, trimmed",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [
+        "trimmed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 65,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 2044,
+      "aisle": "Produce",
+      "image": "fresh-basil.jpg",
+      "consistency": "SOLID",
+      "name": "basil leaves",
+      "nameClean": "basil leaves",
+      "original": "2/3 cup fresh basil leaves, roughly chopped",
+      "originalName": "fresh basil leaves, roughly chopped",
+      "amount": 0.6666667,
+      "unit": "cup",
+      "meta": [
+        "fresh",
+        "roughly chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.6666667,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 16,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10211216,
+      "aisle": "Produce",
+      "image": "ginger.png",
+      "consistency": "SOLID",
+      "name": "ginger",
+      "nameClean": "ginger",
+      "original": "1-inch piece fresh ginger, grated",
+      "originalName": "fresh ginger, grated",
+      "amount": 1,
+      "unit": "inch",
+      "meta": [
+        "fresh",
+        "grated"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "inch",
+          "unitLong": "inch"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "inch",
+          "unitLong": "inch"
+        }
+      }
+    },
+    {
+      "id": 2064,
+      "aisle": "Produce",
+      "image": "mint.jpg",
+      "consistency": "SOLID",
+      "name": "mint leaves",
+      "nameClean": "mint leaves",
+      "original": "1/4 cup fresh mint leaves, trimmed and roughly chopped",
+      "originalName": "fresh mint leaves, trimmed and roughly chopped",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [
+        "fresh",
+        "trimmed",
+        "roughly chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 11.25,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10511297,
+      "aisle": "Produce",
+      "image": "parsley.jpg",
+      "consistency": "SOLID",
+      "name": "parsley",
+      "nameClean": "parsley",
+      "original": "1 cup fresh parsley or cilantro, roughly chopped",
+      "originalName": "fresh parsley or cilantro, roughly chopped",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [
+        "fresh",
+        "roughly chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 60,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "1 clove garlic, crushed",
+      "originalName": "garlic, crushed",
+      "amount": 1,
+      "unit": "clove",
+      "meta": [
+        "crushed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "clove",
+          "unitLong": "clove"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "clove",
+          "unitLong": "clove"
+        }
+      }
+    },
+    {
+      "id": 31015,
+      "aisle": "Produce",
+      "image": "chili-peppers-green.jpg",
+      "consistency": "SOLID",
+      "name": "chili",
+      "nameClean": "chili",
+      "original": "1 fresh green chili, seeded and minced",
+      "originalName": "fresh green chili, seeded and minced",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "fresh",
+        "green",
+        "minced",
+        "seeded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 31015,
+      "aisle": "Produce",
+      "image": "chili-peppers-green.jpg",
+      "consistency": "SOLID",
+      "name": "chilies",
+      "nameClean": "chilies",
+      "original": "2 fresh green chilies, seeded and sliced into small strips",
+      "originalName": "fresh green chilies, seeded and sliced into small strips",
+      "amount": 2,
+      "unit": "",
+      "meta": [
+        "fresh",
+        "green",
+        "seeded",
+        "sliced into small strips"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11291,
+      "aisle": "Produce",
+      "image": "spring-onions.jpg",
+      "consistency": "SOLID",
+      "name": "green onions",
+      "nameClean": "green onions",
+      "original": "4 green onions, washed and cut on an angle",
+      "originalName": "green onions, washed and cut on an angle",
+      "amount": 4,
+      "unit": "",
+      "meta": [
+        "washed and cut on an angle"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 4,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9160,
+      "aisle": "Produce",
+      "image": "lime-juice.png",
+      "consistency": "LIQUID",
+      "name": "juice of lime",
+      "nameClean": "juice of lime",
+      "original": "juice from 2 limes",
+      "originalName": "juice from limes",
+      "amount": 2,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 10011043,
+      "aisle": "Ethnic Foods",
+      "image": "bean-sprouts.jpg",
+      "consistency": "SOLID",
+      "name": "mung bean sprouts",
+      "nameClean": "mung bean sprouts",
+      "original": "1 cup mung bean sprouts (see note below)",
+      "originalName": "mung bean sprouts (see note below)",
+      "amount": 1,
+      "unit": "cup",
+      "meta": [
+        "(see note below)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 104,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 10511819,
+      "aisle": "Produce",
+      "image": "red-chili.jpg",
+      "consistency": "SOLID",
+      "name": "chilies",
+      "nameClean": "chilies",
+      "original": "2 fresh red chilies, seeded and minced",
+      "originalName": "fresh red chilies, seeded and minced",
+      "amount": 2,
+      "unit": "",
+      "meta": [
+        "fresh",
+        "red",
+        "minced",
+        "seeded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1022053,
+      "aisle": "Ethnic Foods",
+      "image": "rice-vinegar.png",
+      "consistency": "LIQUID",
+      "name": "rice vinegar",
+      "nameClean": "rice vinegar",
+      "original": "1 tablespoon rice vinegar",
+      "originalName": "rice vinegar",
+      "amount": 1,
+      "unit": "tablespoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 1012047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "SOLID",
+      "name": "sea salt",
+      "nameClean": "sea salt",
+      "original": "1/2 teaspoon sea salt",
+      "originalName": "sea salt",
+      "amount": 0.5,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 4058,
+      "aisle": "Ethnic Foods",
+      "image": "sesame-oil.png",
+      "consistency": "LIQUID",
+      "name": "sesame oil",
+      "nameClean": "sesame oil",
+      "original": "1 1/2 tablespoons toasted sesame oil",
+      "originalName": "toasted sesame oil",
+      "amount": 1.5,
+      "unit": "tablespoons",
+      "meta": [
+        "toasted"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 1.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 4058,
+      "aisle": "Ethnic Foods",
+      "image": "sesame-oil.png",
+      "consistency": "LIQUID",
+      "name": "sesame oil",
+      "nameClean": "sesame oil",
+      "original": "sesame oil for frying",
+      "originalName": "sesame oil for frying",
+      "amount": 6,
+      "unit": "servings",
+      "meta": [
+        "for frying"
+      ],
+      "measures": {
+        "us": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 11300,
+      "aisle": "Produce",
+      "image": "snow-peas.jpg",
+      "consistency": "SOLID",
+      "name": "snow peas",
+      "nameClean": "snow peas",
+      "original": "1 1/2 cups snow peas, sliced into small strips",
+      "originalName": "snow peas, sliced into small strips",
+      "amount": 1.5,
+      "unit": "cups",
+      "meta": [
+        "sliced into small strips"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 147,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10116124,
+      "aisle": "Ethnic Foods",
+      "image": "soy-sauce.jpg",
+      "consistency": "LIQUID",
+      "name": "tamari sauce",
+      "nameClean": "tamari sauce",
+      "original": "1 tablespoon tamari sauce",
+      "originalName": "tamari sauce",
+      "amount": 1,
+      "unit": "tablespoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 2043,
+      "aisle": "Spices and Seasonings",
+      "image": "turmeric.jpg",
+      "consistency": "SOLID",
+      "name": "turmeric",
+      "nameClean": "turmeric",
+      "original": "1 teaspoon turmeric",
+      "originalName": "turmeric",
+      "amount": 1,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    }
+  ],
+  "instructions": "Begin by preparing the pancake batter. Whisk together the rice flour, egg, sea salt, turmeric, cayenne and green chili. Gradually whisk in the coconut milk. The mixture should be a smooth, semi-thick batter that is of pouring consistency. Add a little water if necessary. Cover and set aside while you prepare the rest of the food.Now prepare the sauce. Whisk together all of the ingredients and set aside.For the filling, combine the carrot, radish, green onions, green chilies and snow peas. Put the herbs in another bowl and have your sprouts ready along with the mushrooms.Heat a teaspoon of oil over medium heat in a non-stick skillet. When hot, ladle 1/2 cup of batter into the pan and spread with the bottom of the ladle until you have a roughly 6 to 8 inch pancake.  Fry for 6 to 8 minutes or until you have small holes forming and the bottom is crispy brown, then flip and fry for another few minutes on the other side. Transfer to a plate and keep warm in a 150 oven while you finish the rest of the pancakes  you should finish with 4 to 6 pancakes.To serve, scatter a portion of the vegetables, herbs and mushrooms over one half of the pancake. Sprinkle some sauce over top and fold the pancake. Drizzle with more sauce and there you go.",
+  "category": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a095cf88edda0d1b4e41159"
+  },
+  "userId": "69f9a482475bd4b296b4c0bc",
+  "title": "Easy Baked Chicken",
+  "image": "https://img.spoonacular.com/recipes/710766-556x370.jpg",
+  "ingredients": [
+    {
+      "id": 5311,
+      "aisle": "Canned and Jarred",
+      "image": "canned-food.png",
+      "consistency": "SOLID",
+      "name": "chicken broth",
+      "nameClean": "chicken broth",
+      "original": "1 can chicken broth",
+      "originalName": "chicken broth",
+      "amount": 1,
+      "unit": "can",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "can",
+          "unitLong": "can"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "can",
+          "unitLong": "can"
+        }
+      }
+    },
+    {
+      "id": 9150,
+      "aisle": "Produce",
+      "image": "lemon.png",
+      "consistency": "SOLID",
+      "name": "lemon",
+      "nameClean": "lemon",
+      "original": "1 large lemon. sliced",
+      "originalName": "lemon. sliced",
+      "amount": 1,
+      "unit": "large",
+      "meta": [
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "large",
+          "unitLong": "large"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "large",
+          "unitLong": "large"
+        }
+      }
+    },
+    {
+      "id": 2028,
+      "aisle": "Spices and Seasonings",
+      "image": "paprika.jpg",
+      "consistency": "SOLID",
+      "name": "paprika",
+      "nameClean": "paprika",
+      "original": "paprika",
+      "originalName": "paprika",
+      "amount": 6,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "SOLID",
+      "name": "bell pepper",
+      "nameClean": "bell pepper",
+      "original": "pepper",
+      "originalName": "pepper",
+      "amount": 6,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 2036,
+      "aisle": "Spices and Seasonings",
+      "image": "rosemary.jpg",
+      "consistency": "SOLID",
+      "name": "rosemary flakes",
+      "nameClean": "rosemary flakes",
+      "original": "rosemary flakes",
+      "originalName": "rosemary flakes",
+      "amount": 6,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "SOLID",
+      "name": "salt",
+      "nameClean": "salt",
+      "original": "salt",
+      "originalName": "salt",
+      "amount": 6,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 6,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 10611282,
+      "aisle": "Produce",
+      "image": "white-onion.png",
+      "consistency": "SOLID",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 white onion, quartered",
+      "originalName": "white onion, quartered",
+      "amount": 1,
+      "unit": "",
+      "meta": [
+        "white",
+        "quartered"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 5006,
+      "aisle": "Meat",
+      "image": "whole-chicken.jpg",
+      "consistency": "SOLID",
+      "name": "chicken",
+      "nameClean": "chicken",
+      "original": "4lb whole chicken",
+      "originalName": "whole chicken",
+      "amount": 4,
+      "unit": "lb",
+      "meta": [
+        "whole"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 870.897,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    }
+  ],
+  "instructions": "Heat the oven to 350.Make sure the bird has been patted dry, and try and dry the inside as best as you can.Take the quartered onion and the sliced lemons and place these inside of the cavity.Take the chicken and place it into a 9 x 13 baking dish.Take the paprika, rosemary, salt, and pepper and season the bird all over. Cover the bottom of the dish with chicken broth and place into the oven for 2 hours. (Place foil over the top of the bird if it is browning too much.) Take a thermometer and check that the inside temperature is 165. If not, cook for an additional 20 minutes and check again.Remove and allow to cool before serving.",
+  "category": "",
+  "__v": 0
+}]

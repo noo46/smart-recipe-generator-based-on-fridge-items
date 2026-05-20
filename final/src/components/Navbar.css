@@ -1,0 +1,99 @@
+/* Navbar Container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 60px;
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Logo */
+.navbar h2 {
+  color: #222;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* Links Container */
+.navbar div {
+  display: flex;
+  gap: 30px;
+}
+
+/* Links */
+.navbar a {
+  text-decoration: none;
+  color: #444;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+/* Elegant Hover Underline */
+.navbar a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  background: #4f46e5; /* Indigo Accent */
+  left: 0;
+  bottom: -5px;
+  transition: 0.3s ease;
+}
+
+.navbar a:hover::after {
+  width: 100%;
+}
+
+/* Hover Color */
+.navbar a:hover {
+  color: #4f46e5;
+}
+
+/* Login Button Special */
+.navbar a:last-child {
+  background: #4f46e5;
+  color: #fff;
+  padding: 7px 16px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+.navbar a:last-child:hover {
+  background: #3730a3;
+  color: #fff;
+}
+.logout-btn {
+  background: #000;
+  color: white;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.logout-btn:hover {
+  background: #333;
+}
+/* Responsive */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 15px 20px;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .navbar div {
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
